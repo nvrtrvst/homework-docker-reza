@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"go-server/router"
+
 	"log"
 	"net/http"
-
-	"go-server/router"
 )
 
 func main() {
